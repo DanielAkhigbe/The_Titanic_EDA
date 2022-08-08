@@ -21,3 +21,11 @@ Logistic Regression was used as the benchmark model and the Random Forest ensemb
 The models were split into Train, Validation and Test sets and GridSearchCv was used to evaluate the models' performance.
 
 The Random Forest model produced favourable results with a high accuracy and precision scores and the full details can be explored in the Jupyter Notebooks.
+
+### Footnote
+This ReadMe document only provides summary information of the work performed on this dataset. The Titanic dataset is quite common and I
+understand if you might have been expecting something else, however, why I chose to go ahead with this dataset and make something out of it was for presentation purposes. 
+
+As a data scientist I like to also learn from fellow data scientists and review their Notebooks, however, I always deal with the problem of documentation and readability. I would like to change the narrative by creating this repository and I believe you will find a substantial difference in the Notebooks uploaded in this repository.
+
+Comments are welcome and I hope I have been able to do something a little different here at least.
